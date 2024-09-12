@@ -6,7 +6,7 @@ This is a version of the classic "Tron" videogame, programmed in Z80 assembly fo
 
  * See [Usage](#usage) for instructions on how to use this repository.
  * See [Examples](#examples) for example media of the game.
- * See [Backstory](#Backstory) if you want to read more about the story behind this project.
+ * See [Backstory](#backstory) if you want to read more about the story behind this project.
 
 # Examples
 
@@ -14,18 +14,18 @@ This is a version of the classic "Tron" videogame, programmed in Z80 assembly fo
     <tbody>
         <tr>
             <td align="center">
-                <img src="" alt="player1_wins_wall" style="width:100%">
+                <img src="media/p1_wins_wall.png" alt="player1_wins_wall" style="width:100%">
             </td>
             <td align="center">
-                <img src="" alt="start" style="width:100%">
+                <img src="media/start.png" alt="start" style="width:100%">
             </td align="center">
         </tr>
         <tr>
             <td align="center">
-                <img src="" alt="player2_wins_cut" style="width:100%">
+                <img src="media/p2_wins.png" alt="player2_wins_cut" style="width:100%">
             </td>
             <td align="center">
-                <img src="" alt="player2_wins_wall" style="width:100%">
+                <img src="media/p2_wins_wall.png" alt="player2_wins_wall" style="width:100%">
             </td align="center">
         </tr>
     </tbody>
