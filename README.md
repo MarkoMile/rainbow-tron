@@ -3,6 +3,7 @@
 # About
 
 This is a version of the classic "Tron" videogame, programmed in Z80 assembly for the ZX Spectrum 48K. It can be run in an emulator, or on the actual device.
+The program was first written and assembled in 2022, then disassembled and documented in 2024.
 
  * See [Usage](#usage) for instructions on how to use this repository.
  * See [Examples](#examples) for example media of the game.
