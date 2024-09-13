@@ -7,7 +7,7 @@ The program was first written and assembled in 2022, then disassembled and docum
 
 - See [Usage](#usage) for instructions on how to use this repository.
 - See [Examples](#examples) for example media of the game.
-- See [Backstory](#backstory) if you want to read more about the story behind this project.
+- See [Backstory](backstory.md) if you want to read more about the story behind this project.
 
 # Examples
 
